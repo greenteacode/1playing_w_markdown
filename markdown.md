@@ -7,9 +7,13 @@ In the words of Tanya Green:
 
 ######Styled text:
 *Asterisks on each end make Italics.*
+
 _Underscore can do the same._
+
 **Two on each end make BOLD.**
+
 __Two underscores can do the same.__
+
 __You can__ _mix_ __them together.__
 
 ######My repository for this text will be
@@ -20,11 +24,11 @@ __You can__ _mix_ __them together.__
 
 ##### I think I am starting to understand!
 ####Still to do:
-[]Finish this file
-[x]Install Git for Windows
-[]Push to repo
-[]Message Jose
-[]Clean the kitchen
-[]Mow the lawn
+- [x] Finish this file
+- [x] Install Git for Windows
+- [x] Push to repo
+- [ ] Message Jose
+- [ ] Clean the kitchen
+- [ ] Mow the lawn
 
 ######Until then...
