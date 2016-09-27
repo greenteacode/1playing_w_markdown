@@ -17,7 +17,7 @@ __Two underscores can do the same.__
 __You can__ _mix_ __them together.__
 
 ######My repository for this text will be
-[repository link](https://github.com/greenteacode/1playing_w_markup)
+[repository link](https://github.com/greenteacode/1playing_w_markdown)
 
 ######This is how you insert a picture:
 ![Profile picture](https://cdn-photos.bloc.io/medium/2352621/Me_and_Rudy.jpg?1474985961)
